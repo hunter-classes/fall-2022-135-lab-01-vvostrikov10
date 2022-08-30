@@ -2,10 +2,9 @@
 Author: Vladislav Vostrikov
 Course: CSCI-135
 Instructor: Michael Zamansky
-Assignment: Lab1 smaller.cpp
+Assignment: Lab1 smaller3.cpp
 
-Here, briefly, at least in one or a few sentences
-describe what the program does.
+Prints the smaller of three numbers
 */
 
 #include <iostream>
